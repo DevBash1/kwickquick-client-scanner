@@ -1,7 +1,7 @@
 ### Kwickquick-Client-Scanner
 
 
-You can view the [kwickquick-API](https://github.com/Benrobo/kickquick-API) && [kwickquick-scanner](https://github.com/Benrobo/kwickquick-client-scanner)
+You can view the [kwickquick-API](https://github.com/Benrobo/kickquick-API) && [kwickquick-organization](https://github.com/Benrobo/kwickquick-client-organization)
 
 
 ## ❤❤ Contributing
